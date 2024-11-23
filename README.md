@@ -40,7 +40,7 @@ This project is an excellent portfolio piece showcasing expertise in:
 
 ---
 
-##Project Explanation: Weather Bot 🌦
+## Project Explanation: Weather Bot 🌦
   -**Overview**:
 The Weather Bot is a web application designed to fetch and display real-time weather information for cities worldwide. It offers a user-friendly and responsive interface while demonstrating robust backend functionality with Flask. Users can search for weather data of multiple cities, view local times specific to the cities, and interact with a dynamically styled interface that adapts to different weather conditions.
 

@@ -1,34 +1,54 @@
-🌦 Weather Bot
+# 🌦 Weather Bot
 
-Weather Bot is a dynamic, responsive web application that provides real-time weather updates for any city worldwide. The application is built with Flask as the back-end framework and integrates with the OpenWeather API to fetch accurate weather data, including temperature, humidity, wind speed, visibility, and local time.
+The **Weather Bot** is a feature-rich, modern web application that provides real-time weather updates for cities around the world. Designed with user-friendly features, this application allows users to view comprehensive weather information dynamically styled based on the weather conditions. It also calculates accurate local times for cities worldwide.
 
-This project is an excellent addition to your portfolio and demonstrates your ability to create real-world applications by integrating APIs and designing user-friendly interfaces.
+This project is an excellent portfolio piece showcasing expertise in:
+- **API Integration**: Fetching real-time data from the OpenWeather API.
+- **Backend Development**: Building a robust application with Flask.
+- **Responsive Design**: Crafting an intuitive and mobile-friendly UI.
+- **Dynamic Content Rendering**: Creating visually engaging weather themes.
 
-🚀 Features
-Fetch Real-Time Weather Data: Enter one or more city names to retrieve weather updates for multiple locations.
+---
 
-Customizable Units: Users can toggle between Celsius and Fahrenheit for temperature readings.
+## 🚀 Features
 
-City-Specific Local Time: Automatically displays the local time of the selected city, factoring in its timezone.
+- **Real-Time Weather Data**: Fetch up-to-date weather information for one or multiple cities.
+- **Accurate Local Time**: Dynamically calculate the correct local time for selected cities.
+- **Customizable Units**: Switch between Celsius and Fahrenheit temperature units with ease.
+- **Comprehensive Weather Information**:
+  - Temperature
+  - Humidity
+  - Wind Speed
+  - Visibility
+  - Sunrise and Sunset times
+  - Weather Descriptions
+- **Dynamic Styling**: Visually appealing themes that adapt to the weather condition (sunny, rainy, snowy).
+- **Error Handling**: Informative messages for invalid or missing city names.
+- **Responsive UI**: A sleek and mobile-friendly interface that works across all devices.
 
-Error Handling:
+---
 
-Informative error messages are displayed for invalid city names.
-Handles empty input gracefully.
-Dynamic Styling:
+## 🛠 Tech Stack
 
-Modern and visually appealing interface.
-Consistent themes and color palettes throughout the app.
-Responsive Design:
+- **Back-End**: Flask (Python)
+- **Front-End**: HTML, CSS (Responsive Design)
+- **API**: OpenWeather API
+- **Libraries**:
+  - `python-dotenv`: Securely manage API keys.
+  - `requests`: Efficiently interact with APIs.
+  - `pytz`: Handle timezone calculations accurately.
 
-Adapts to different devices and screen sizes, ensuring accessibility across desktops, tablets, and mobile phones.
-🛠 Tech Stack
-Programming Language: Python 3.8+
-Framework: Flask
-API: OpenWeather API
-Frontend: HTML, CSS
-Libraries/Packages:
-Flask for back-end logic
-requests for API calls
-python-dotenv for managing sensitive API keys
-pytz for timezone conversions
+---
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page Screenshot](./screenshots/home-page.png)
+
+### Weather Report
+![Weather Report Screenshot](./screenshots/weather-report.png)
+
+---
+
+## 📂 Project Structure
+

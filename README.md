@@ -80,9 +80,20 @@ Error messages are displayed for invalid or missing inputs.
 
 
 ### Weather Report
-![Weather Report Screenshot](./screenshots/weather-report.png)
+![image](https://github.com/user-attachments/assets/4eeb6144-3008-4d21-8cc7-6193edfb5916)
+
+**Conclusion**
+The Weather Bot project is a comprehensive demonstration of skills in backend development, API integration, dynamic web design, and error handling. It showcases how real-time data can be fetched and displayed effectively in a responsive and visually appealing interface. By combining technical functionality with user-friendly features, this project serves as a strong addition to any portfolio, reflecting expertise in full-stack development and practical problem-solving.
+
+
+**Copyright and License**
+This project is licensed under the MIT License, which allows free use, modification, and distribution of the software as long as proper credit is given to the original author.
+
+
+© 2024 Neha Chinnasani. All Rights Reserved.
+GitHub: nehachinnasani23
 
 ---
 
-## 📂 Project Structure
+
 
